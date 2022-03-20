@@ -65,7 +65,7 @@ body {
 	display: flex;
 
 	flex-direction: column;
-	align-items: flex-start;
+	align-ite: flex-start;
 	color: #1c1c1c;
 	background: linear-gradient(230.65deg, #499cfe 27.49%, #9cc8fc 83.19%);
 	border-radius: 20px;
